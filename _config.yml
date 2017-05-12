@@ -5,7 +5,7 @@ locale: en_US
 description: Technology and everything else
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://binilj04.github.io/
 
 # Jekyll configuration
 
