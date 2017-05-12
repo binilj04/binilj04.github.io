@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: The Blog
 locale: en_US
-description: Describe your website here.
+description: Technology and everything else
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Binil Jacob
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: binilj04@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: binilj04
+  github: binilj04
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -51,7 +51,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: 
     analytics:
     verify:
     ad-client:
